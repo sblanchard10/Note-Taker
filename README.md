@@ -1,4 +1,4 @@
-# Unit 11 Express Homework: Note Taker
+# Express Homework: Note Taker
 
 # Notetaker ![NPM](https://img.shields.io/npm/l/sta)
 
