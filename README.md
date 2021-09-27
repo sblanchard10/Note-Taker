@@ -24,6 +24,8 @@ sblanchard10 email:sblanchard10@yahoo.com
 
 Note Taker
 
+Heroku link: https://note-taker2432.herokuapp.com/notes
+
 https://github.com/sblanchard10/note-taker
 
 ## Description
